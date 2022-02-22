@@ -1,0 +1,144 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Brownist haerisies confuted, their knavery anatomized, and their fleshly spirits painted in full, in a true history of one Mistris Sarah Miller of Banbury in Oxfordshire wherein is contained the preaching of a barber, his zeale towards this new sister, how the spirit of the flesh moved him, how shee granted, how she fell mad, and how by the mercy of God, she was released of all.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 10 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A29889</idno>
+            <idno type="STC">Wing B5189</idno>
+            <idno type="STC">ESTC R23816</idno>
+            <idno type="EEBO-CITATION">07912090</idno>
+            <idno type="OCLC">ocm 07912090</idno>
+            <idno type="VID">40370</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A29889)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 40370)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 1199:1)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Brownist haerisies confuted, their knavery anatomized, and their fleshly spirits painted in full, in a true history of one Mistris Sarah Miller of Banbury in Oxfordshire wherein is contained the preaching of a barber, his zeale towards this new sister, how the spirit of the flesh moved him, how shee granted, how she fell mad, and how by the mercy of God, she was released of all.</title>
+               </titleStmt>
+               <extent>6 p.   </extent>
+               <publicationStmt>
+                  <publisher>s.n.],</publisher>
+                  <pubPlace>[London? :</pubPlace>
+                  <date>Printed in the yeare, 1641.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in the Union Theological Seminary Library, New York.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Miller, Sarah.</term>
+               <term>Brownists.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-06</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2012-11</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:40370:1" rendition="simple:additions"/>
+            <pb facs="tcp:40370:1" rendition="simple:additions"/>
+            <p>THE BROVVNIST HAERESIES CONFVTED THEIR KNAVERY ANATOMIZED, and their fleſhly ſpirits painted at full, in a true Hiſtory of one Miſtris <hi>Sarah Miller</hi> of <hi>Banbury</hi> in Oxfordſhire.</p>
+            <p>WHEREIN IS CON<g ref="char:EOLhyphen"/>TAINED THE PREACHING OF a Barber, his zeale towards this new ſiſter, how the the ſpirit of the fleſh moved him, how ſhee granted, how ſhe fell and, and how <hi>by the mercy of God ſhe was re<g ref="char:EOLhyphen"/>leaſed of all.</hi>
+            </p>
+            <p>Printed in the yeare, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:40370:2"/>
+            <pb n="1" facs="tcp:40370:2"/>
+            <head>THE BROVVNIST HAERESIES CONFVTED THEIR KNAVERY ANATOMIZED, and their fleſhly ſpirits painted at full, in a true Hiſtory of one Miſtris <hi>Sarah Miller</hi> of <hi>Banbury</hi> in Oxfordſhire.</head>
+            <p>TO diſcourſe of thoſe ſundry ſects which now are ſprung up amongſt us like ſo many weeds in a pleaſant garden is not my intent; neither will I unfold their hereticall and erroneous opinions in which they daily more and more perſe<g ref="char:EOLhyphen"/>vere, but I have pitched my meditations on ſuch a corrupt Sect which is enough to fill the world with wonder.</p>
+            <p>It was in a town called Banburie, in the Countie of Oxford, a place alwayes too much encumbred with Browniſts and Separatiſts, where dwelt a Gen<g ref="char:EOLhyphen"/>tleman of a very honeſt and upright heart, who had a daughter about the age of nineteene, ſhe was witty, but withall proud, which the devil alwaies inyeigled her with, that it might prove a cloud to eclipſe all her other vertues wherewith it had pleaſed God to endue her with.</p>
+            <pb n="2" facs="tcp:40370:3"/>
+            <p> This Gentlewoman (to the intent ſhe might make her ſelfe merry) changing her apparell, and diſ<g ref="char:EOLhyphen"/>guiſing her ſelfe as much as poſſible ſhe could, went to a place where theſe Browniſts did commonly hold their conventicles, that ſhe might behold and ſee the manner of their living, and how they were affected in their Religion. Now ſhe having before<g ref="char:EOLhyphen"/>hand heard of ſome part of their uſes, ſhe met with a Siſter of the holy Sect, and ſaluted her after this manner.</p>
+            <p>Well met ſiſter, I pray you can you reſolve mee what Brother teacheth day; the holy Siſter re<g ref="char:EOLhyphen"/>plyed ſhe could not tell, but ſhee heard than a very honeſt man, a Chimney-ſweeper, was appointed for the ſame purpoſe, a man to whom it had pleaſed God to give abundance of the Spirit, but I heard a<g ref="char:EOLhyphen"/>gaine he was diſmiſſed, becauſe he went in blacke like our corrupted Popiſh Schollers: but will you walke Siſter, I perſwade my ſelfe that we ſhall have a worthy man, becauſe it is Mr. <hi>Bryans</hi> turne to elect the man for to day.</p>
+            <p>Together they goe, and this holy Siſter conducts this Gentlewoman to a very large ſtately Barne, where was a very great company met together where the Teacher for that day being a moſt Reverend Bar<g ref="char:EOLhyphen"/>ber, had placed himſelfe in a Sciffe, ſuch a thing as men carry Hey or Straw in, where after ſuch po<g ref="char:EOLhyphen"/>ſtures as they uſe, (as making changlings faces, ſtro<g ref="char:EOLhyphen"/>king the Beard, picking the noſtrils, and ſuch like) according as the Spirit moved him, hee began his prayer as followeth;</p>
+            <p>O God which art our Lord, our Redeemer, our
+<pb n="3" facs="tcp:40370:3"/>Saviour, the very breath of our noſtrils, we are now become before thee, we are here preſent before thee, we kneele before thee to beg, to aske, to crave a gift, a benefit, a bleſſing from thee; Thou knoweſt, O Lord, O God, O Chriſt, that we doe ſerve thee in all ſincerity, in all truth, in all righteouſnes, and that we are ſincere and true, and righteous, and that wee are hated and perſecuted by the Babylonish whore for thy ſake, but we are willing to beare all, to un<g ref="char:EOLhyphen"/>dergoe all, to ſtand to all perſecutions to the death. And now, O Lord, O God, O Chriſt, we are come, met, and kneel here together, holy Brothers and ho<g ref="char:EOLhyphen"/>ly Siſters, we pray thee, we beſeech thee, wee deſire thee that thou wouldeſt ſo ordaine it that wee may fructifie here among our ſelves, and not ſuffer theſe our holy ſiſters to defile themſelvs with the wicked. Now when he had ended a whole houres prayer, re<g ref="char:EOLhyphen"/>peating the 3. part of it an hundred times, he deli<g ref="char:EOLhyphen"/>vered his Text, which was taken forth of <hi>Samuel,</hi> the words were theſe, <hi>Is Saul alſo among the Prophets,</hi> from which he gathered that the people thought that <hi>Saul</hi> had not been inſpired by the Spirit, and they held none lawful to be among the Prophets but thoſe who were inſpired by the Spirit, novv (dearely beloved brethren, ſaid he, Holy brothers and Holy ſiſters at<g ref="char:EOLhyphen"/>tend and marke,) we hold the very point which they did in thoſe dayes, for ſurely no man is fit for this holy ſervice, but a very devout man, and who is fa<g ref="char:EOLhyphen"/>miliar with the Spirit, and for this one reaſon may we ſet our ſelves with all might &amp; main againſt thoſe Scholars, as Biſhops, Deanes, yea and Deacons which ſtrive to conſtrue the Scriptures according to the
+<pb n="4" facs="tcp:40370:4"/>of the Hebrew, Greek, and Latin, which laſt Lan<g ref="char:EOLhyphen"/>guage ſtincks like a piece of beefe a twelve moneth old, yet never ſalted.</p>
+            <p>Thus he went on as if he had bin mad, infinitely rayling and rauing againſt Learning and Languages, eſpecially that of the Beaſt. Now when he was about the middle of his diſcourſe (as all thought) turning up the white of his eyes in devotion, hee perceived this ſtrange ſiſter, at whoſe firſt gaze the ſpirit began to move him indeed, but it was that of the Fleſh; to be briefe, he thought every minute an houre, till he could draw to ſome end, and ſo diſmiſſe them, that he might but ſingle out this new holy ſiſter, but hee had gotten himſelfe into ſuch a wood of diſcourſe, that it was impoſſible for him to finde any gap for to eſcape: At length hee ſeeing no remedy, hee fell down as if he had ſvouned, whereupon the Brethren male and female run with all diligence to ſee what was the matter, which he perceived (like a counter<g ref="char:EOLhyphen"/>feit Raſcall) roſe up and told them he not very well, and ſo cloſed all with an extemporie prayer, and they departed.</p>
+            <p>This cunning leacherour watching which way this Gentle woman went, made ſuch haſte after her that be over-took her, and ſhe being by her ſelfe till he came unto her, began to court her after this maner.</p>
+            <p>Holy ſiſter, when I was teaching to day, I eſpied you amongſt the reſt, but far more zealous then the reſt, leſt I was deceived with an outward appearance, and withal I viewing the perfections of body where<g ref="char:EOLhyphen"/>with you are indued alſo, it ſtruck me into ſuch a quandarie, that in truth and ſinceritie I ſvvounded
+<pb n="5" facs="tcp:40370:4"/>as you ſavv, in the place vvhere I taught: now verily tis love to your zeal wherewith you do abound, that doth enforce me to ſue to you, holy ſiſter, for favor. It ſeems this was not the firſt time that he had loved zeal, he could play the loving Orator ſo well, but woed, and ſhe at length granted, being overcome with his entreaties, and the ſpirit of the fleſh ſpeak<g ref="char:EOLhyphen"/>ing on his ſide ſhe granted, &amp; at that time loſt more then she could ever gain again vvith Ganges riches, her maiden head I meane; for it vvas fourty vveeks after plainly ſeen.</p>
+            <p>After she had kept them company about ſeven or eight dayes, she returned tovvards home, but vvith a ſad and penſive heart; for vvhat she had done began to prick her to the quick. She had not been at home long, but her father and mother began to take no<g ref="char:EOLhyphen"/>tice of this ſtrange alteration in their daughter, yet made as if they did not; But not long after her pen<g ref="char:EOLhyphen"/>ſive ſorrovv was turned into mad tricks, for she would fling, and break things, if any one ſought to reſtrain her, she would ſcratch and bite, and in her madneſſe thoſe were all her vvords; I'm dam'd, I'm dam'd.</p>
+            <p>Maſter <hi>Miller</hi> (for ſo was her Father called) took great grieſe to ſee his daughter, whom he loued ſo intirely, in ſuch ſtrange mad ſits, uſing thoſe words before repeated, which maded is very heart bleed, ſent his man to Oxford to one Mr. <hi>Gill,</hi> a reuerend Diuine his Friend, deſiring him that he would take the paines as to come ouer to him to <hi>Banbury:</hi> his Man went, did his Meſſage, and without any ſtay Mr. <hi>Gill</hi> took horſe, and away he went to <hi>Banbury,</hi>
+               <pb n="6" facs="tcp:40370:5"/>where, Mr. <hi>Miller</hi> after many kinde ſalutatio is, be<g ref="char:EOLhyphen"/>gan and told him the whole diſcourſe, as you have heard already, as farre as he himſelfe knew, and ſhe being in her Fits, Mr. <hi>Gill</hi> deſired to ſee her, and to talke with her, which was moſt willingly granted, he had no ſooner entred the Chamber that he ſaw her, but ſhe cryed out, I'm dam'd, I'm dam'd, avoid Sa<g ref="char:EOLhyphen"/>tan, avoid. Which, Mr. <hi>Gill</hi> appeaſed preſently with good words, and began to talke to her, and for the ſpace of halfe an houre ſhe heard him quietly, but then ſhe interrupted him, and called for wine, ſaying, ſhe was dry; all this while, Mr. <hi>Gill</hi> follow<g ref="char:EOLhyphen"/>ed her with good admonitions how to live, and how to gaine heaven, if ſhe would follow it, Shee made him anſwer, that what he ſpake was as falſe as God was true, and having a Venice-glaſſe in her hand fild with wine, ſhee threw it to the ground wich theſe words, That it was as impoſſible for her to be ſaved, as for that Glaſſe to re-bound into her hand unbro<g ref="char:EOLhyphen"/>ken, which contrary to the expectation of all the beholders, the Glaſse did. Well, ſaid this Gentle<g ref="char:EOLhyphen"/>woman, I will truſt in the Lord my Redeemer, and ſo began to relate the whole ſtory which you have already heard to Mr. <hi>Gill</hi> and her Father. Reader, this I have published, that you may read and rejoyce and take heed, and that the Browniſt may ſee their divellish Hereſies, and repent.</p>
+            <trailer>FINIS.</trailer>
+            <pb facs="tcp:40370:5"/>
+         </div>
+      </body>
+   </text>
+</TEI>
